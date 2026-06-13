@@ -1,6 +1,10 @@
 # ForgedLogic
 > **Systems Architecture | Embedded Robotics | Hardware R&D**
 
+<p align="center">
+  <img src="avatar.png" width="200" height="200" alt="ForgedLogic Logo">
+</p>
+
 Welcome! I build custom hardware interfaces, motorized actuators, and closed-loop control systems. Currently engineering precision fabrication tooling and ergonomic welding accessories.
 
 ---
